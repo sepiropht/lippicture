@@ -1,6 +1,6 @@
 # A Complete Intro to React
 
-My own starter react with ssr redux flow 
+Small project to test all react ecosystem (ssr, redux ,webpack, pwa)
 
 ## Contributing
 
