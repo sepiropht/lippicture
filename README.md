@@ -1,5 +1,7 @@
 # A Complete Intro to React
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sepiropht/lippicture.svg)](https://greenkeeper.io/)
+
 Small project to test all react ecosystem (ssr, redux ,webpack, pwa)
 
 ## Contributing
